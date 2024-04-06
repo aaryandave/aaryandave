@@ -1,6 +1,7 @@
 ## Hey, I'm Aaryan!
 
 Purdue CS '25, TJHSST '22
+
 LinkedIn: https://www.linkedin.com/in/aaryandave/
 
 ---
