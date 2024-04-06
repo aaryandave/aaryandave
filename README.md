@@ -10,4 +10,4 @@ LinkedIn: https://www.linkedin.com/in/aaryandave/
 - LLM Research @ Purdue E-Lab
 - Wave: Intuitive Computer Interaction
 
-My Other Work:
+Check out my other projects below:
