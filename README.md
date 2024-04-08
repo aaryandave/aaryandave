@@ -7,7 +7,7 @@ LinkedIn: https://www.linkedin.com/in/aaryandave/
 ---
 
 ### Here's what I'm working on currently:
-- LLM Research @ Purdue E-Lab
+- Multimodal LLM Research @ Purdue E-Lab
 - Wave: Intuitive Computer Interaction
 
 Check out my other projects below:
