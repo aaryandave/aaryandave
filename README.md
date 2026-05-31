@@ -1,4 +1,4 @@
-## What's up 🤙, I'm Aaryan!
+## Hey, I'm Aaryan! 🤙🏾
 
 Purdue CS '25, TJHSST '22
 
