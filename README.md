@@ -9,8 +9,8 @@ Website: https://aaryandave.dev
 ---
 
 ### Here's what I'm working on currently:
-- Backend SWE @ Marriott
-- Multimodal LLM Research @ Purdue E-Lab
-- Wave: Intuitive Computer Interaction
+- Agentic SDLC @ Apple
+- Dev Tooling @ Apple
+- Platform Eng @ Apple
 
 Check out my other projects below:
